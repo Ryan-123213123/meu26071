@@ -7,7 +7,7 @@ const {
     listarBaralho,
     contarBaralho,
     salvarPokemonBaralho
-} = require('./database/script_db.js')
+} = require('./script_db.js')
 const { resolve } = require('dns')
 
 
